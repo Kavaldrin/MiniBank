@@ -1,0 +1,2 @@
+# MiniBank
+Distributed transactions project
